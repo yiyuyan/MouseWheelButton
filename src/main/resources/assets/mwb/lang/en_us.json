@@ -1,0 +1,6 @@
+{
+  "controls.mwb.mw": "Use Wheel",
+  "narrator.controls.mwb.wheel": "Use %s button by mouse wheel",
+  "hack.name.mouse_wheel": "MouseWheelKeyBind",
+  "hack.name.auto_scroll": "AutoScroll"
+}

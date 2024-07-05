@@ -1,0 +1,15 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "cn.ksmcbrigade.mwb.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "refmap": "mwb.refmap.json",
+  "mixins": [
+  ],
+  "client": [
+    "ConMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
